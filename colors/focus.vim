@@ -9,7 +9,7 @@ let colors_name = "focus"
 if ($TERM =~ '256' || &t_Co >= 256) || has("gui_running")
     hi Normal ctermbg=0 ctermfg=15 cterm=NONE guibg=#001e26 guifg=#9bc1c2 gui=NONE
     hi NonText ctermbg=0 ctermfg=15 cterm=NONE guibg=#001e26 guifg=#9bc1c2 gui=NONE
-    hi Comment ctermbg=0 ctermfg=7 cterm=NONE guibg=#001e26 guifg=#5b7a80 gui=NONE
+    hi Comment ctermbg=0 ctermfg=7 cterm=NONE guibg=#001e26 guifg=#6a9955 gui=NONE
     hi Constant ctermbg=0 ctermfg=15 cterm=NONE guibg=#001e26 guifg=#9bc1c2 gui=NONE
     hi Error ctermbg=0 ctermfg=9 cterm=NONE guibg=#001e26 guifg=#d33934 gui=NONE
     hi Identifier ctermbg=0 ctermfg=15 cterm=NONE guibg=#001e26 guifg=#9bc1c2 gui=NONE
