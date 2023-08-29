@@ -33,7 +33,7 @@ if ($TERM =~ '256' || &t_Co >= 256) || has("gui_running")
     hi CursorLineNr ctermbg=0 ctermfg=10 cterm=NONE guibg=#001e26 guifg=#51a163 gui=NONE
     hi helpLeadBlank ctermbg=0 ctermfg=15 cterm=NONE guibg=#001e26 guifg=#9bc1c2 gui=NONE
     hi helpNormal ctermbg=0 ctermfg=15 cterm=NONE guibg=#001e26 guifg=#9bc1c2 gui=NONE
-    hi Visual ctermbg=11 ctermfg=15 cterm=NONE guibg=#969c46 guifg=#9bc1c2 gui=NONE
+    hi Visual ctermbg=11 ctermfg=15 cterm=NONE guibg=#3b80a1 guifg=#9bc1c2 gui=NONE
     hi VisualNOS ctermbg=0 ctermfg=15 cterm=NONE guibg=#001e26 guifg=#9bc1c2 gui=NONE
     hi Pmenu ctermbg=6 ctermfg=15 cterm=NONE guibg=#2d555a guifg=#9bc1c2 gui=NONE
     hi PmenuSbar ctermbg=2 ctermfg=15 cterm=NONE guibg=#063a38 guifg=#9bc1c2 gui=NONE
